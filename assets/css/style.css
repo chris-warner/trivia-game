@@ -1,0 +1,71 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: cyan;
+    border: 2px outset purple;
+    height: 160;
+    padding: 90;
+    font-size: 40px;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h2 {
+    text-align: center;
+    text-emphasis: bold;
+    color: aqua;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: cyan;
+    font-size: 26px;
+}
+
+.box {
+    border: aqua outset 2px;
+    width: 100%;
+    height: auto;
+}
+
+#displayDiv {
+    color: aqua;
+    font-size: 34pt;
+}
+
+.questionDiv {
+    color: aqua;
+}
+
+.displayDiv {
+    font-size: 34pt;
+}
+
+#btnNewgame {
+    height: 80px;
+    width: 180px;
+    color: cyan;
+    background-color: black;
+    align-self: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-color: purple;
+}
+
+form {
+    color: cyan;
+}
